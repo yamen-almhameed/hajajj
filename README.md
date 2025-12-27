@@ -7,7 +7,6 @@ A mobile application developed for booking Umrah tickets and domestic trips. It 
 Include screenshots of your application here to show how it looks.
 
 | Home Screen | Feature Screen | Other login screen|payment screen|
-|:---:|:---:|:---:|
 | <img src="screenshot/Home.png" width="200"/> | <img src="screenshot/package.png" width="200"/> | <img src="screenshot/sign in - Copy.png" width="200"/>|<img src="screenshot/payment.png" width="200"/>|
  
 
@@ -17,3 +16,4 @@ Include screenshots of your application here to show how it looks.
 *   **Secure Payments:** Integrated **ClickPay** for secure online transactions.
 *   **Itinerary Management:** User-friendly booking flow and itinerary management.
 *   **High Performance:** Clean UI/UX design ensuring reliable app performance.
+
